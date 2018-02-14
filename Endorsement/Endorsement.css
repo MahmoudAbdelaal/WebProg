@@ -1,0 +1,15 @@
+body{text-align: center; background-image: url("../three.jpg"); padding-left: 230px}
+input{width: 300px}
+input{background: transparent}
+input.name {width: 700px}
+p.end {text-align:center}
+button{width: 80px;
+    background: transparent;
+    display: block;
+    margin: auto;
+    font-family: Poppins-Regular;
+    color: #64686b;
+    font-size: medium;
+    font-style: oblique;}
+table.button{padding-left: 300px}
+div{text-align: right; padding-right:300px;font-size: 25px}

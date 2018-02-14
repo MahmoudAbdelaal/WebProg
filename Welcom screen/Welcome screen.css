@@ -1,0 +1,20 @@
+header{text-align: center; font-size: large; height:150px;}
+body{background-image: url("../three.jpg");background-repeat: repeat;background-size: cover; color: #64686b}
+aside{width: 400px;  color: transparent;font-size: x-large; }
+a{color: #64686b;text-decoration: none}
+hr{width: 1000px;}
+p{color: #64686b;padding-left: 135px}
+aside hr{width: 170px; margin-left: 130px}
+ul{text-align: center}
+aside.two {display:inline-block;margin-right:475px;}
+aside.one {display:inline-block;}
+aside.one hr{width: 250px; margin-left: 95px}
+aside.one p{padding-left: 103px}
+button{width: 200px;
+    background: transparent;
+    display: block;
+    margin: auto;
+    font-family: Poppins-Regular;
+    color: #64686b;
+    font-size: medium;
+    font-style: oblique;}

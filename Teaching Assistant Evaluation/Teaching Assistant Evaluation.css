@@ -1,0 +1,19 @@
+h1{text-align:center; height: 120px}
+h2{text-align:center; }
+h1{background-image:url("../logo.png");     background-repeat: no-repeat; background-size: 120px 120px }
+table{text-align: left; width: 100%;}
+p{font-size: 20px}
+form{display: flex; flex-direction: row; justify-content: flex-start; break-before: auto;   margin: 10px;}
+input{size: 40px}
+body{color: #000000}
+body{background-image: url("../three.jpg"); background-repeat: repeat; background-size: cover}
+th{color: #565a5d;}
+
+table.one button{width: 120px;
+    background: transparent;
+    display: block;
+    margin: auto;
+    font-family: Poppins-Regular;
+    color: #64686b;
+    font-size: medium;
+    font-style: oblique;}

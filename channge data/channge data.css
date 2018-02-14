@@ -1,0 +1,21 @@
+body{background-image: url("../one.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #64686b;
+    padding-top: 210px}
+
+button{width: 80px;
+    background: transparent;
+    display: block;
+    margin: auto;
+    font-family: Poppins-Regular;
+    color: #64686b;
+    font-size: medium;
+    font-style: oblique;}
+
+hr{width: 300px}
+
+input{background: transparent}
+
+table{text-align: left}
